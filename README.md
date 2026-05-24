@@ -50,6 +50,8 @@ The `main.c` demonstrates:
 
 ---
 
+## 📁 Project Structure
+
 STM32F401_BareMetal_Drivers/
 ├── STM32F401XX.h
 ├── STM32F401_GPIO.h
@@ -57,8 +59,7 @@ STM32F401_BareMetal_Drivers/
 ├── STM32F401_SPI.h
 ├── STM32F401_SPI.c
 ├── main.c
-├── README.md
-
+└── README.md
 
 ---
 
