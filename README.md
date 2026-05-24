@@ -52,6 +52,10 @@ The `main.c` demonstrates:
 
 ## 📁 Project Structure
 
+
+## Project Structure
+
+```text
 STM32F401_BareMetal_Drivers/
 ├── STM32F401XX.h
 ├── STM32F401_GPIO.h
@@ -60,7 +64,7 @@ STM32F401_BareMetal_Drivers/
 ├── STM32F401_SPI.c
 ├── main.c
 └── README.md
-
+```
 ---
 
 ## 🚀 How to Use
